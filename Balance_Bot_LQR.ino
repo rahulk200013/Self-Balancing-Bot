@@ -8,12 +8,10 @@
 * Author : Rahul
 * Email: rahulk200013@gmail.com
 *
-* YouTube video demo link: https://www.youtube.com/watch?v=S0sB1bu0Wx4
-*
 * Team ID: eYRC-BB#2550
 * Theme: Bipedal Bot
 *
-* Top 20 at National Level e-Yantra Robotics Competition 2019-20
+* Completed all the tasks at National Level e-Yantra Robotics Competition 2019-20
 * conducted by IIT Bombay, India and sponsored by MHRD, Government of India
 * 
 * PURPOSE:
