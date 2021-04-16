@@ -8,13 +8,12 @@
 * Author : Rahul
 * Email: rahulk200013@gmail.com
 *
-* GitHub: https://github.com/heethesh/Balance-Bot
-* YouTube video demo link: https://youtu.be/-k-lZ_CcU4U
+* GitHub: https://github.com/rahulk200013/Self-Balancing-Bot
 *
 * Team ID: eYRC-BB#2550
 * Theme: Bipedal Bot
 *
-* Semi Finalist at National Level e-Yantra Robotics Competition 2019-20
+* Completed all the tasks at National Level e-Yantra Robotics Competition 2019-20
 * conducted by IIT Bombay, India and sponsored by MHRD, Government of India
 * 
 * PURPOSE:
